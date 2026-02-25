@@ -183,7 +183,3 @@ This system was built to simulate a real Forward Deployed Engineering scenario:
 MIT License — free to use and modify.
 
 ---
-
-## 🙋 Author
-
-Built as a portfolio project demonstrating RAG system design and deployment for a Forward Deployed Engineer role in the healthcare industry.
